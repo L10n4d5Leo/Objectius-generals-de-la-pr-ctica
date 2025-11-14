@@ -1,1 +1,1 @@
-# Objectius-generals-de-la-pr-ctica
+# Objectius-generals-de-la-practica
